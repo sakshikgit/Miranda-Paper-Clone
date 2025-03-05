@@ -8,9 +8,15 @@ The project is built using modern web technologies, ensuring a responsive and ef
 
 # Features
 
-# Document Creation:  Easily create and format new documents.
-# Real-time Collaboration: Collaborate with others in real-time on document editing.
-# Organization Tools: Categorize and organize your documents with tags and folders.
-# Rich Text Editing: Utilize a rich text editor for enhanced document formatting.
-# Search Functionality: Quickly find documents using the search feature.
-# Export Options: Export your documents in various formats (PDF, Word, etc.).
+# Document Creation:  
+Easily create and format new documents.
+# Real-time Collaboration: 
+Collaborate with others in real-time on document editing.
+# Organization Tools: 
+Categorize and organize your documents with tags and folders.
+# Rich Text Editing:
+Utilize a rich text editor for enhanced document formatting.
+# Search Functionality:
+Quickly find documents using the search feature.
+# Export Options: 
+Export your documents in various formats (PDF, Word, etc.).
